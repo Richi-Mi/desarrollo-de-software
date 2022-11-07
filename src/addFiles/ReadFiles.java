@@ -12,6 +12,7 @@ public class ReadFiles {
     private String nombre;
     
     public ReadFiles() {
-        nombre = "Joshua";
+        nombre = "Ricardo";
     }
+    
 }
